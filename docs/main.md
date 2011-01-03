@@ -1,0 +1,2 @@
+Documentation about main function.
+
