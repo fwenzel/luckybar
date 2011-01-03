@@ -1,8 +1,8 @@
 {
-    "name":"lucky-locationbar",
-    "fullName":"lucky-locationbar",
-    "description":"This is an example of addon description.",
-    "author":"",
+    "name":"luckybar",
+    "fullName":"LuckyBar",
+    "description":"Changes Firefox 4's default location bar behavior to a 'I'm feeling lucky' Google search.",
+    "author":"Fred Wenzel <fwenzel@mozilla.com>",
     "license":"MPL",
     "version":"0.1"
 }
