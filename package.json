@@ -1,9 +1,9 @@
 {
-    "name":"luckybar",
-    "fullName":"LuckyBar",
-    "description":"Changes Firefox 4's default location bar behavior to a 'I'm feeling lucky' Google search.",
-    "author":"Fred Wenzel <fwenzel@mozilla.com>",
-    "license":"MPL",
-    "version":"0.1"
+    "name": "luckybar", 
+    "license": "MPL", 
+    "author": "Fred Wenzel <fwenzel@mozilla.com>", 
+    "version": "0.1", 
+    "fullName": "LuckyBar", 
+    "id": "jid0-RZ1wv8WwA7CKjr2eJZV648uKiuE", 
+    "description": "Changes Firefox 4's default location bar behavior to a 'I'm feeling lucky' Google search."
 }
-
