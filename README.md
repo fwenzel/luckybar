@@ -9,3 +9,9 @@ Lucky** search, i.e., to take you straight to the most likely search result
 for the value you entered. In Firefox 4, this behavior was changed to issue
 a regular Google search instead. If you have become used to the previous
 behavior and want to change it back, this add-on will do exactly that.
+
+Uninstalling
+------------
+Should you want to uninstall this add-on, go to ``about:addons`` and click
+uninstall. The add-on will reset the preference's value to the state it was
+in before the add-on was initially installed, unless it has changed since.
