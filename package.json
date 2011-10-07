@@ -1,7 +1,7 @@
 {
-    "name": "luckybar", 
-    "license": "MPL", 
-    "author": "Fred Wenzel <fwenzel@mozilla.com>", 
+    "name": "luckybar",
+    "license": "MPL",
+    "author": "Fred Wenzel <fwenzel@mozilla.com>",
     "dependencies": [
         "addon-kit",
         "api-utils"
